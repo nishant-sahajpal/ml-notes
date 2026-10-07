@@ -1,6 +1,6 @@
 # Study log
 
-## 2026-10-08 (Wed) · Days 1–3 catch-up
+## 2026-10-07 (Wed) · Days 1–3 catch-up
 - **Hours:** ~3
 - **Done:**
   - 3B1B Linear Algebra ch. 1–3 (Vectors; Span and basis; Linear transformations)
